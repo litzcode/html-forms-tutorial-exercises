@@ -1,0 +1,36 @@
+body {
+	background-color: rgb(10, 29, 65);
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	padding-top: 50px;
+}
+
+form {
+	width: 50%;
+	margin: auto;
+}
+
+input {
+	background-color: rgb(2, 2, 32);
+	border: none;
+	width: 100%;
+	padding: 10px;
+	margin: 5px;
+	border-radius: 5px;
+}
+
+button {
+	background-color: rgb(60, 122, 202);
+	text-align: center;
+	color: white;
+	width: 100%;
+	margin: 5px;
+	padding: 10px;
+	border: none;
+	box-sizing: content-box;
+	border-radius: 5px;
+}
